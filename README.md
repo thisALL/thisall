@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ghe 👋
 
-<!--
-**thisALL/thisall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 Security Researcher · Smart Contract Auditor · Bug Bounty Hunter**
 
-Here are some ideas to get you started:
+I audit EVM smart contracts and hunt vulnerabilities across DeFi protocols — methodically, with a runnable Foundry proof-of-concept for every finding I report.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I do
+- Smart contract security audits (Solidity / EVM — BNB Chain, Ethereum, L2s)
+- Bug bounty hunting on Immunefi and independent programs
+- Exploit PoC development and verification with Foundry
+
+## 🛠️ Toolkit
+`Solidity` · `Foundry` · `Ethers.js` · `JavaScript / TypeScript` · `Python`
+
+## 📊 GitHub stats
+![Ghe's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisall&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisall&layout=compact&theme=tokyonight)
+
+## 📫 Reach me
+- X: [@HeyGhevd](https://x.com/HeyGhevd)
